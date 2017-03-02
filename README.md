@@ -87,8 +87,7 @@ this.loader = function( firstPage ){
     }
 ```
 
-### 图表组件对象
-**饼图组件对象：H5ComponentPie**
+
 
 
 
