@@ -2,7 +2,7 @@
 
 [*项目预览*](http://www.huxiaofei.me/webApp)
 
-本项目为一个H5报告页面，运用了HTML5、CSS3、JS等技术，采用组件式开发，页面滚动采用了基于jQuery的FullPage.js，运用Canvas制作了柱形图、折线图、饼图、散点图、雷达图等多种动态图表组件。
+本项目为一个H5报告页面，运用了HTML5、CSS3、JS等技术，采用组件式开发，页面滚动采用了基于jQuery的FullPage.js，运用Canvas制作了柱形图、折线图、饼图、散点图等多种动态图表组件。
 
 ### 项目结构
 
