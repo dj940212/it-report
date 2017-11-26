@@ -26,10 +26,6 @@
         $(this).fadeIn();
         return false;
     })
-    $('.component').on('onLeave',function(){
-        $(this).fadeOut();
-        return false;
-    })
 ```
 
 ### 核心对象与方法
