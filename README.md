@@ -52,7 +52,6 @@ H5为整个项目的内容组件对象，H5包含addPage（）、addComponent（
         })
     .addPage('desc')
         .addComponent('caption',{
-            text:'核心理念',
             width:400,
             height:100,
             css:{backgroundColor:'green',top:350},
